@@ -9,9 +9,10 @@
     <ul class="nav navbar-nav">
       <li class="active"><a href="${pageContext.request.contextPath}/">Home</a></li>
       
-      <li><a href="${pageContext.request.contextPath}/notice/noticeList">Notice</a></li>
-      <li><a href="${pageContext.request.contextPath}/qna/qnaList">QnA</a></li>
-      <li><a href="${pageContext.request.contextPath}/memo/memoPage">Memo</a></li>
+      <li><a href="${pageContext.request.contextPath}#">Notice</a></li>
+      <li><a href="${pageContext.request.contextPath}#">QnA</a></li>
+      <li><a href="${pageContext.request.contextPath}#">Memo</a></li>
+      <li><a href="${pageContext.request.contextPath}/test/mapTest">Search</a>
  	  
     </ul>
     <ul class="nav navbar-nav navbar-right">

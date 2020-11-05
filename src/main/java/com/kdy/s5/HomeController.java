@@ -38,13 +38,5 @@ public class HomeController {
 		return "index";
 	}
 	
-	@GetMapping("kdyTest")
-	public ModelAndView mapTest() throws Exception {
-		ModelAndView mv = new ModelAndView();
-		
-		mv.setViewName("test/kdyTest");
-		
-		return mv;
-	}
-	
+
 }
