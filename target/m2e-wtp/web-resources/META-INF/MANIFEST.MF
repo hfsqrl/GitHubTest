@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: 1111
+=======
+Built-By: User
+>>>>>>> KJH
 Build-Jdk: 1.8.0_261
 Created-By: Maven Integration for Eclipse
 
